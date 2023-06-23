@@ -1,11 +1,16 @@
 # T-Shirt_Store
 Developed an E-Commerce application using MERN stack that allows users to buy T-shirt’s. Implemented JWT Authentication, and real time cart update notifications, and real time admin panel
 
-Developed an E-Commerce application using MERN stack that allows users to buy T-shirt’s.</br>
-• Implemented JWT Authentication, and real time cart update notifications,and real time admin panel update.</br>
-• App purely based on selling and buying designer t-shirts.</br>
-• Integrated payment gateway using paypal with card</br>
-• Utilised React,React-Router-Dom,Cross-Origin Resource Sharing</br>
+• Developed an E-Commerce application using MERN stack that allows users to buy and sell T-shirt’s.
+
+• Implemented JWT authentication, real-time cart update notifications, and a dynamic admin panel with CRUD
+functionality for efficient management.
+
+• Integrated third-party APIs, such as PayPal, to provide secure and reliable payment processing for customer
+transactions.
+
+• Implemented a robust shopping cart functionality, allowing users to add and manage multiple items, update
+quantities, and proceed to checkout with ease
 
 ## •Sign-Up Page
 ![Screenshot (21)](https://user-images.githubusercontent.com/59407093/179674744-c10d115f-42f0-47eb-a2ee-82576f80a366.png)
